@@ -1,0 +1,153 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    background-color:#919C9B; 
+    font-size: 1em;
+    font-family: arial, helvetica, sans-serif;
+}
+
+.cabecalho {
+    width: 40%;
+    margin: auto;
+    height: 70px;
+    font-family: Helvetica, sans-serif;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 40px;
+    color: #C43138;
+}
+
+.cabecalho a{
+    text-decoration: none;
+    color: black;
+    padding: 8px 12px;
+}
+
+.cabecalho a:hover{ 
+    background-color: #C43138;
+    color: #e3e3e3;
+    border-radius: 10px;
+}
+
+.geral{
+    width: 95%;
+    margin: auto;
+    padding-top: 15px;
+    padding-bottom: 50px;
+    background-color: #e3e3e3;
+    border: 5px solid #5C5E63;
+    border-bottom: 0px;
+}
+
+.logo{
+    max-width: 100%;
+    text-align: center;
+    padding-bottom: 60px;
+}
+.area_geral{
+    padding: 40px;
+    display: inline-block;
+}
+
+.area_geral h1{
+    color: #C43138;
+    padding-left: 7px;
+    padding-top: 5px;
+    text-align: left;
+}
+
+.area_geral img{
+    border-radius: 10px;
+    width: 480px;
+}
+.area_rodape{
+    background-color: #454C59;
+    color: #f2f2f2;
+    clear: both;
+    text-align: center;
+    padding: 15px;
+}
+.postagens{
+    width: 50%;
+    text-align: justify;
+    height: auto;
+    padding-left: 20px;
+}
+
+.postagens p{
+    padding-bottom: 100px;
+}
+#imagem_index{
+    float: right;
+}
+
+/*divisão*/
+
+.postagens_geral{
+    text-align: left;
+}
+.sintomas{
+    text-align: left;
+    font-size: 20px;
+    margin-left: 30px;
+    margin-bottom: 90px;
+}
+
+.sintomas h3{
+    color:#C43138;
+    text-align: left;
+}
+
+#imagem_sintomas{
+    padding-top: 20px;
+    padding-right: 60px;
+}
+
+#imagem_sintomas img{
+    max-width: 250px;
+    max-height: 700px;
+    float: right;
+}
+
+.previnir{
+    font-size: 15px;
+    width: 28%;
+    margin: auto;
+}
+.previnir li{
+    padding: 3px;
+    padding-top: 8px;
+}
+
+iframe{
+    padding-bottom: 30px;
+    width: 560px;
+    height: 315px;
+}
+
+.imagens_historia_1 img{
+    padding-right: 30px;
+}
+
+.postagens_centro{
+    padding-bottom: 20px;
+    text-align: justify center;
+}
+
+.links{
+    float: left;
+    padding-top: 40px;
+    font-size: 20px;
+    text-align: left;
+}
+
+.links a{
+    color: #C43138;
+}
+
+#arrumar{
+    padding-top: 24px;
+}
